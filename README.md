@@ -41,3 +41,7 @@ https://stackoverflow.com/questions/20413459/fatal-not-a-git-repository-or-any-o
 https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line
 https://guides.github.com/features/mastering-markdown/
 https://community.atlassian.com/t5/Git-questions/fatal-No-such-remote-origin-after-git-remote-set-url-origin/qaq-p/401456
+https://stackoverflow.com/questions/43863522/your-push-would-publish-a-private-email-address-error
+https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery
+https://gist.github.com/jbgo/1944238
+https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d
