@@ -40,3 +40,4 @@ https://stackoverflow.com/questions/10116373/git-push-error-repository-not-found
 https://stackoverflow.com/questions/20413459/fatal-not-a-git-repository-or-any-of-the-parent-directories-git
 https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line
 https://guides.github.com/features/mastering-markdown/
+https://community.atlassian.com/t5/Git-questions/fatal-No-such-remote-origin-after-git-remote-set-url-origin/qaq-p/401456
