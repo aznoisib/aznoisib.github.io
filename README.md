@@ -44,8 +44,21 @@ git commit -am "my comment"
 git push
 ```
 
+hasilnya:
 
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/adds.PNG)
 
+coba lagi jalankan command 
+
+```bash
+git add .
+git commit -am "my comment"
+git push
+```
+
+hasilnya:
+
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addr.PNG)
 
 ## Initial repo
 
