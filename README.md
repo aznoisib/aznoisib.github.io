@@ -1,5 +1,21 @@
 Belajar membuat repository/halaman github dengan metode fundamental  & di sertai cara menyelesaikan/solved masalah yang terjadi menggunakan referensi, seputar info untuk kenyataanya ini pun hanya rangkuman tidak mendalami penuh seputar git karna bisa memakan waktu cukup lama hanya untuk satu pelajaran git ini dalam banyak kasus masalah pun terus terjadi dan selalu ada masalah baru yang tidak kunjung habis, maka dari itu di sediakan referensi untuk detailnya situs sekaligus sebagai backlink/credit si penulis, untuk lapor masalah baru silahkan klik open issue nah loh untuk sekedar open issue harus belajar dulu cari referensi dll. kapan codingnya :D tambah lagi untuk membuat tutorial dan membagikannya :v , memang kenyataanya seperti itu ( pahami <--> praktekan ) dalam studi kasus ini pahami dan praktekan harus di terapkan secara bermasaan contohhnya ketika memahami sesuatu tidak mempraktekannya sama saja tidak mendapatkan ilmu apa2 hanya mengetahui dan dalam kenyataan pun belum terbukti benar atau tidak mungkin bisa ada masalah baru yang harus di perbaiki dari situ jika kamu berhasil memperbaiki kode tersebut sudah menjadi game tersendiri seperti kubik misalnya :D praktek & pahami -> cari referensi sebanyak2nya dengan cara ini kesalahan pun bisa di minimalisir dengan bukti referensi. sebaiknya di arsipkan saja referensi tersebut untuk di pelajari/dipahami --> praktek, dengan cara itu lah program di bangun itu baru sepengetahuan saya saja selama membuat program dengan metode fundamental otodidak. kutipan terakhir silahkan di bookmark/fork karena disini saya akan update ilmu seputar git dan github menggunakan gambar ekstensi .gif
 
+## Git commander On Windows
+
+`git remote rm origin` untuk menghapus akses remote ke git url di gunakan hanya ketika terkoneksi ke remote saja, bagaimana mengecek apakah kita sedang terkonseksi ke remote git url ?
+
+` git branch -ra` untuk mengecek branch remote dan local dengan cara ini kita bisa mengetahui sedang terkoneksi remote atau tidak
+
+Example:
+```bash
+git remote rm origin https://github.com/username-anda/example.git
+git branch -ra
+```
+
+![Image](https://aznoisib.github.com/docs/removeremote.png)
+
+* warna hijau branch local warna merah remote branch
+
 
 ## Initial repo
 
