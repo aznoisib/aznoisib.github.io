@@ -32,8 +32,8 @@ git branch -ra
 
 Example:
 ```bash
-git add .
-git push -u origin master
+<span style="color:yellow">git add .
+git push -u origin master</span>
 ```
 
 
@@ -49,6 +49,7 @@ di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak mel
 git add .
 git commit -am "my comment"
 git push
+/n
 ```
 
 hasilnya:
@@ -61,6 +62,7 @@ coba lagi jalankan command
 git add .
 git commit -am "my comment"
 git push
+/n
 ```
 
 di karenakan anda tidak melakukan perubahan apapun hasilnya:
