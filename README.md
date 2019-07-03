@@ -70,9 +70,9 @@ git commit -am "my comment"
 git push
 ```
 
-hasilnya:
+hasilnya berhasil tidak ada pesan gagal!
 
-
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addsc.PNG)
 
 ## Initial repo
 
