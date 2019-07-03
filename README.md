@@ -36,7 +36,7 @@ git push -u origin master
 
 * Everything up-to-date
 Branch 'master' set up to track remote branch 'master' from 'origin'.
-di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak melakukan save file lalu anda menjalankan command `git add .` & `git push -u origin master`  5r5
+di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak melakukan save file lalu anda menjalankan command `git add .` & `git push -u origin master`  5r56
 
 
 
