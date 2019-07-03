@@ -74,7 +74,7 @@ git push
 hasilnya berhasil tidak ada pesan gagal!
 
 ![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addsc.PNG)
-<space><space>
+  
 credits: https://stackoverflow.com/questions/2936652/git-push-wont-do-anything-everything-up-to-date
 
 
