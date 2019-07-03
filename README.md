@@ -60,6 +60,20 @@ di karenakan anda tidak melakukan perubahan apapun hasilnya:
 
 ![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addr.PNG)
 
+coba sekarang anda lakukan perubahan seperti merubah isi yang ada di folder lokal anda
+misalkan save file atau delete file atau menambahkan file lalu jalankan lagi command
+
+
+```bash
+git add .
+git commit -am "my comment"
+git push
+```
+
+hasilnya:
+
+
+
 ## Initial repo
 
 untuk pertama kali membuat repository github menggunakan Os windows jalankan
