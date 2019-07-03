@@ -56,7 +56,7 @@ git commit -am "my comment"
 git push
 ```
 
-hasilnya:
+di karenakan anda tidak melakukan perubahan apapun hasilnya:
 
 ![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addr.PNG)
 
