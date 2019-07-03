@@ -16,7 +16,7 @@ git branch -ra
 
 * warna hijau branch local warna merah remote branch
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/existingremote)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/existingremote.png)
 
 * fatal: remote origin already exists. di karenakan anda sudah terkoneksi ke remote git url jadi hanya tinggal melakukan perubahan repo local lalu jalan command di bawah ini
 
@@ -32,12 +32,17 @@ git push -u origin master
 
 
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/nochange)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/nochange.png)
 
 * Everything up-to-date
 Branch 'master' set up to track remote branch 'master' from 'origin'.
-di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak melakukan save file lalu anda menjalankan command `git add .` & `git push -u origin master`  5r56
+di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak melakukan save file lalu anda menjalankan command `git add .` & `git push -u origin master`  dan ternyata pesan ini masih muncul juga meskipun sudah melakukan perubahan langsung saja jalankan command
 
+```bash
+git add .
+git commit -am "my comment"
+git push
+```
 
 
 
