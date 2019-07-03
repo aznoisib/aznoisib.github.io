@@ -4,7 +4,7 @@ Belajar membuat repository/halaman github dengan metode fundamental  & di sertai
 
 `git remote rm origin` untuk menghapus akses remote ke git url di gunakan hanya ketika terkoneksi ke remote saja, bagaimana mengecek apakah kita sedang terkonseksi ke remote git url ?
 
-` git branch -ra` untuk mengecek branch remote dan local dengan cara ini kita bisa mengetahui sedang terkoneksi remote atau tidak
+`git branch -ra` untuk mengecek branch remote dan local dengan cara ini kita bisa mengetahui sedang terkoneksi remote atau tidak
 
 Example:
 ```bash
@@ -15,6 +15,31 @@ git branch -ra
 ![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/removeremote.PNG)
 
 * warna hijau branch local warna merah remote branch
+
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/existingremote)
+
+* fatal: remote origin already exists. di karenakan anda sudah terkoneksi ke remote git url jadi hanya tinggal melakukan perubahan repo local lalu jalan command di bawah ini
+
+`git add .` menambahkan semua isi di folder repository local yang berada di komputer anda ke program git 
+`git push -u origin master` mentransfer repo local ke remote git url/repository online berbasis git
+
+Example:
+```bash
+git add .
+git push -u origin master
+```
+
+
+
+
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/nochange)
+
+* Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak melakukan save file lalu anda menjalankan command `git add .` & `git push -u origin master`  5r5
+
+
+
 
 
 ## Initial repo
