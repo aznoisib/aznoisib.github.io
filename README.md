@@ -47,12 +47,11 @@ di karenakan tidak adanya perubahan repo local yang terjadi misal anda tidak mel
 git add .
 git commit -am "my comment"
 git push
-/n
 ```
 
 hasilnya:
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/adds.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/images/adds.PNG)
 
 coba lagi jalankan command 
 
@@ -60,12 +59,11 @@ coba lagi jalankan command
 git add .
 git commit -am "my comment"
 git push
-/n
 ```
 
 di karenakan anda tidak melakukan perubahan apapun hasilnya:
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addr.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/images/addr.PNG)
 
 coba sekarang anda lakukan perubahan seperti merubah isi yang ada di folder/berkas/repository lokal anda
 misalkan save file atau delete file atau menambahkan file lalu jalankan lagi command
@@ -75,12 +73,11 @@ misalkan save file atau delete file atau menambahkan file lalu jalankan lagi com
 git add .
 git commit -am "my comment"
 git push
-/n
 ```
 
 hasilnya berhasil tidak ada pesan gagal!
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/addsc.PNG)  
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/images/addsc.PNG)  
 credits: https://stackoverflow.com/questions/2936652/git-push-wont-do-anything-everything-up-to-date
 
 
