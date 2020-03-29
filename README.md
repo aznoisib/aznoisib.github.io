@@ -1,7 +1,5 @@
 Belajar membuat repository/halaman github dengan metode fundamental  & di sertai cara menyelesaikan/solved masalah yang terjadi menggunakan referensi, seputar info untuk kenyataanya ini pun hanya rangkuman tidak mendalami penuh seputar git karna bisa memakan waktu cukup lama hanya untuk satu pelajaran git ini dalam banyak kasus masalah pun terus terjadi dan selalu ada masalah baru yang tidak kunjung habis, maka dari itu di sediakan referensi untuk detailnya situs sekaligus sebagai backlink/credit si penulis,
 
- untuk lapor masalah baru silahkan klik open issue nah loh untuk sekedar open issue harus belajar dulu cari referensi dll. kapan codingnya :D tambah lagi untuk membuat tutorial dan membagikannya :v , memang kenyataanya seperti itu ( pahami <--> praktekan ) dalam studi kasus ini pahami dan praktekan harus di terapkan secara bermasaan contohhnya ketika memahami sesuatu tidak mempraktekannya sama saja tidak mendapatkan ilmu apa2 hanya mengetahui dan dalam kenyataan pun belum terbukti benar atau tidak mungkin bisa ada masalah baru yang harus di perbaiki dari situ jika kamu berhasil memperbaiki kode tersebut sudah menjadi game tersendiri seperti kubik misalnya :D 
-
  praktek & pahami -> cari referensi sebanyak2nya dengan cara ini kesalahan pun bisa di minimalisir dengan bukti referensi. sebaiknya di arsipkan saja referensi tersebut untuk di pelajari/dipahami --> praktek, dengan cara itu lah program di bangun itu baru sepengetahuan saya saja selama membuat program dengan metode fundamental otodidak. silahkan di bookmark/fork karena disini saya akan update ilmu seputar git dan github menggunakan gambar
 
  kutipan terakhir repository itu nama lain/synonim dari berkas dan folder beserta isinya, jadi intinya kita harus manual nge push menjalankan command setiap perubahan yang di lakukan di berkas komputer 
@@ -32,8 +30,8 @@ git branch -ra
 
 Example:
 ```bash
-<span style="color:yellow">git add .
-git push -u origin master</span>
+git add .
+git push -u origin master
 ```
 
 
