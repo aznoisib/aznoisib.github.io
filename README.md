@@ -21,7 +21,7 @@ git branch -ra
 
 * warna hijau branch local warna merah remote branch
 
-![Image](https://raw.githubusercontent.com/aznoisib.github.io/master/docs/existingremote.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/refs/heads/master/docs/images/existingremote.PNG)
 
 * fatal: remote origin already exists. di karenakan anda sudah terkoneksi ke remote git url jadi hanya tinggal melakukan perubahan repo local lalu jalan command di bawah ini
 
@@ -37,7 +37,8 @@ git push -u origin master
 
 
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/nochange.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/refs/heads/master/docs/images/
+nochange.PNG)
 
 * Everything up-to-date
 Branch 'master' set up to track remote branch 'master' from 'origin'.
@@ -109,9 +110,9 @@ git push -u origin master
 ```
 
 ## Reffrences
-- menambahkan
+- git
   - https://git-scm.com/book/en/v2/Git-Tools-Submodules
-  - And this
+ 
 
 https://chrisjean.com/git-submodules-adding-using-removing-and-updating/  
 https://eka.gdn/programming/cara-logout-dari-git-credential-manager/  
