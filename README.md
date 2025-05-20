@@ -17,7 +17,7 @@ git remote rm origin https://github.com/username-anda/example.git
 git branch -ra
 ```
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/removeremote.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib.github.io/master/docs/removeremote.PNG)
 
 * warna hijau branch local warna merah remote branch
 
