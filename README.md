@@ -37,8 +37,7 @@ git push -u origin master
 
 
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/refs/heads/master/docs/images/
-nochange.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/refs/heads/master/docs/images/nochange.PNG)
 
 * Everything up-to-date
 Branch 'master' set up to track remote branch 'master' from 'origin'.
