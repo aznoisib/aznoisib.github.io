@@ -21,7 +21,7 @@ git branch -ra
 
 * warna hijau branch local warna merah remote branch
 
-![Image](https://raw.githubusercontent.com/aznoisib/aznoisib.github.io/master/docs/existingremote.PNG)
+![Image](https://raw.githubusercontent.com/aznoisib.github.io/master/docs/existingremote.PNG)
 
 * fatal: remote origin already exists. di karenakan anda sudah terkoneksi ke remote git url jadi hanya tinggal melakukan perubahan repo local lalu jalan command di bawah ini
 
