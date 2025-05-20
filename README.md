@@ -5,7 +5,7 @@ Belajar membuat repository/halaman github dengan metode fundamental  & di sertai
  kutipan terakhir repository itu nama lain/synonim dari berkas dan folder beserta isinya, jadi intinya kita harus manual nge push menjalankan command setiap perubahan yang di lakukan di berkas komputer 
 apa manfaat program git ini kita bisa log atau backup/restore setiap perubahan yang kita lakukan di berkas seperti file yang di hapus bisa di kembalikan/restore dengan ketentuan harus melakukan command `git push` di setiap perubahan 
 
-## Git commander On Windows
+## Git commander
 
 `git remote rm origin` untuk menghapus akses remote ke git url di gunakan hanya ketika terkoneksi ke remote saja, bagaimana mengecek apakah kita sedang terkonseksi ke remote git url ?
 
